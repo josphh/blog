@@ -2,8 +2,8 @@
   baseUrl = "https://josphh.pwak.org/";
 }
 
-{ pkgsLib }:
+{ pkgsLib, ... }:
 {
-  # (other options here)
+  baseUrl = "https://josphh.pwak.org/";
   pages.postsIndex.path = pkgsLib.mkForce "index.html";
 }
