@@ -2,6 +2,8 @@
 {
   baseUrl = "https://josphh.pwak.org/";
 
+  language =  "en-gb";
+
   posts = [
     {
       title = "Lorem Ipsum";
