@@ -4,6 +4,17 @@
 
   language =  "en-gb";
 
+  styles = {
+    custom = {
+      path = "josphh.css";
+      file = ./style.css;
+    };
+  };
+
+  header.html = ''
+    <h1>My Website</h1>
+  '';
+
   posts = [
     {
       title = "Lorem Ipsum";
