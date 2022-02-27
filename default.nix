@@ -18,7 +18,7 @@
   posts = [
     {
       title = "Rust & Linux: A match made in heaven?";
-      datetime = "2022-02-18";
+      datetime = "2022-02-27";
       authors = [ "Joseph Gill-Nuttall" ];
       body.markdown = builtins.readFile ./markdown/rustLinuxKernal.md;
     }
