@@ -12,15 +12,15 @@
   };
 
   header.html = ''
-    <h1>My Website</h1>
+    <h1><a href="/index.html">My Website</a></h1>
   '';
 
   posts = [
     {
-      title = "Lorem Ipsum";
-      datetime = "2022-01-31 20:10:05Z";
+      title = "Rust & Linux: A match made in heaven?";
+      datetime = "2022-02-18";
       authors = [ "Joseph Nuttall" ];
-      body.markdown = builtins.readFile ./markdown/lorem.md;
+      body.markdown = builtins.readFile ./markdown/rustLinuxKernal.md;
     }
   ];
   pages = {

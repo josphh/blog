@@ -13,6 +13,10 @@ body {
   align-items: center;
 }
 
+a {
+  color: inherit;
+}
+
 body > * {
   box-sizing: border-box;
   width: 100%;
@@ -29,6 +33,10 @@ header, footer {
 
 header {
   border-bottom: 2px solid #00001a;
+}
+
+header a {
+  text-decoration: none;
 }
 
 header > a {
@@ -154,6 +162,6 @@ blockquote {
 .image-row {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: start;
   flex-wrap: wrap;
 }
