@@ -6,8 +6,8 @@
 
   styles = {
     custom = {
-      path = "josphh.css";
-      file = ./style.css;
+      path = "style.css";
+      css = builtins.readFile ./style.css;
     };
   };
 

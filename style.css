@@ -31,7 +31,7 @@ header, footer {
   text-align: center;
 }
 
-header {
+body > header {
   border-bottom: 2px solid #00001a;
 }
 
@@ -44,7 +44,7 @@ header > a {
   color: inherit;
 }
 
-footer {
+body > footer {
   border-top: 2px solid #00001a;
 }
 
