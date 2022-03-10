@@ -20,7 +20,8 @@
       title = "Rust & Linux: A match made in heaven?";
       datetime = "2022-02-27";
       authors = [ "Joseph Gill-Nuttall" ];
-      body.markdown = builtins.readFile ./markdown/rustLinuxKernal.md;
+      body.markdown = builtins.readFile ./markdown/rustLinuxKernel.md;
+      page.meta.description = "A case study of Rust in the Linux kernel.";
     }
   ];
   pages = {
