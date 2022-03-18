@@ -4,6 +4,8 @@
 
   language =  "en-gb";
 
+  siteTitle = "JMGN";
+
   styles = {
     custom = {
       path = "style.css";
@@ -11,9 +13,6 @@
     };
   };
 
-  header.html = ''
-    <h1><a href="/index.html">JMGN</a></h1>
-  '';
 
   posts = [
     {
