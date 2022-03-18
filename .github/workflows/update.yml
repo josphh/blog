@@ -22,9 +22,9 @@ jobs:
           fetch-depth: 0
 
       - name: Update Flake inputs
-        run: nix flake lock --update-input nixpkgs
+        run: nix flake lock --update-input coricamu
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
         with:
-          message: Update Nixpkgs
+          message: Update Coricamu
