@@ -30,7 +30,7 @@ Here are my (very poor, I know) stats:
 You can contact me through [Matrix](https://matrix.org/) at [@josphh:matrix.org](https://matrix.to/#/@josphh:matrix.org). All messages sent through Matrix are end-to-end encrypted.
 
 ### Email
-You may also contact me through email, at [josphh@tutanota.com](mailto:<josphh@tutanota.com>). Tutanota supports encryption if you yourself have a Tutanota email. All emails sent to me will be encrypted at rest, but I cannot guarentee encryption on your own service. If needed, I recommend you use my public PGP key, stated below.
+You may also contact me through email, at [josphh@tutanota.com](mailto:josphh@tutanota.com). Tutanota supports encryption if you yourself have a Tutanota email. All emails sent to me will be encrypted at rest, but I cannot guarentee encryption on your own service. If needed, I recommend you use my public PGP key, stated below.
 
 ### PGP
 My public key is stored on [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/87DDD1DC1A64EFD195427194033EB63952181A26).
