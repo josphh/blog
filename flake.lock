@@ -7,11 +7,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1649981306,
-        "narHash": "sha256-iAjUVqqsDOrJzZd5oIaoy1F+JIRYbQ52AdAuSfkHFeM=",
+        "lastModified": 1650047438,
+        "narHash": "sha256-e6M6dp05ohy75VE9opFWw45UUzYYOkmhLiPzWMYDJbU=",
         "owner": "danth",
         "repo": "coricamu",
-        "rev": "3bbcd66971ac5cc059c44c79e81d6b3598a3d703",
+        "rev": "7931d764a6532e3cdd3b1f8f53056da17f6cde5d",
         "type": "github"
       },
       "original": {
