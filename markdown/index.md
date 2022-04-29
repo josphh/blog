@@ -1,7 +1,7 @@
 # About me
 
 ## Mastodon
-My Mastodon profile can be viewed <html><a rel="me" href="https://mastodon.social/@josphh">here</a></html>! I recommend you create yourself an account on their decentralised, community owned platform by going [here](https://joinmastodon.org/).
+My Mastodon profile can be viewed <a rel="me" href="https://fosstodon.org/@josphh">here</a>! I recommend you create yourself an account on their decentralised, community owned platform by going [here](https://joinmastodon.org/).
 
 
 ## GitHub
