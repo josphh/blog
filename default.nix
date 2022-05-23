@@ -28,7 +28,7 @@
       path = "index.html";
       title = "Homepage";
       body.markdown = builtins.readFile ./markdown/index.md;
-      meta.author = "Joseph Nuttall";
+      meta.author = "Joseph Gill-Nuttall";
     };
   };
 }
