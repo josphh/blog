@@ -8,7 +8,7 @@ My <templates-font-awesome style="brands" icon="mastodon"></templates-font-aweso
 
 I'm [@josphh](https://github.com/josphh) on <templates-font-awesome style="brands" icon="github"></templates-font-awesome> GitHub, but I'm not very active, as you can see. And when I am, I barely finish the things I'm working on; for example - the now defunct [Quabbot](https://github.com/josphh/quabbot)
 
-Here are my (very poor, I know) stats: <templates-font-awesome style="solid" icon="chart-line"></templates-font-awesome>
+Here are my (very poor, I know) stats:
 
 <a href="https://github.com/josphh" class="image-row">
   <img
