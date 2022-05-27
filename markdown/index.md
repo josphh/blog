@@ -33,5 +33,5 @@ You can contact me through [Matrix](https://matrix.org/) at [@josphh:matrix.org]
 You may also contact me through email, at <templates-font-awesome style="solid" icon="envelope"></templates-font-awesome> [josphh@tutanota.com](mailto:josphh@tutanota.com). Tutanota supports encryption if you yourself have a Tutanota email. All emails sent to me will be encrypted at rest, but I cannot guarentee encryption on your own service. If needed, I recommend you use my public PGP key, stated below.
 
 ### PGP
-My public key <templates-font-awesome style="solid" icon="file-powerpoint"></templates-font-awesome> is stored on [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/87DDD1DC1A64EFD195427194033EB63952181A26).
+My public key is stored on <templates-font-awesome style="solid" icon="key"></templates-font-awesome> [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/87DDD1DC1A64EFD195427194033EB63952181A26).
 *Do not use the keys stored on my GitHub*, as they may be outdated, or possibly compromised.
