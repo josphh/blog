@@ -1,14 +1,14 @@
 # About me
 
 ## Mastodon
-My Mastodon profile can be viewed <a rel="me" href="https://fosstodon.org/@josphh">here</a>! I recommend you create yourself an account on their decentralised, community owned platform by going [here](https://joinmastodon.org/).
+My <templates-font-awesome style="brands" icon="mastodon"></templates-font-awesome> Mastodon profile can be viewed <a rel="me" href="https://fosstodon.org/@josphh">here</a>! I recommend you create yourself an account on their decentralised, community owned platform by going [here](https://joinmastodon.org/).
 
 
 ## GitHub
 
-I'm [@josphh](https://github.com/josphh) on GitHub, but I'm not very active, as you can see. And when I am, I barely finish the things I'm working on; for example - the now defunct [Quabbot](https://github.com/josphh/quabbot)
+I'm [@josphh](https://github.com/josphh) on <templates-font-awesome style="brands" icon="github"></templates-font-awesome> GitHub, but I'm not very active, as you can see. And when I am, I barely finish the things I'm working on; for example - the now defunct [Quabbot](https://github.com/josphh/quabbot)
 
-Here are my (very poor, I know) stats:
+Here are my (very poor, I know) stats: <templates-font-awesome style="solid" icon="chart-line"></templates-font-awesome>
 
 <a href="https://github.com/josphh" class="image-row">
   <img
@@ -30,8 +30,8 @@ Here are my (very poor, I know) stats:
 You can contact me through [Matrix](https://matrix.org/) at [@josphh:matrix.org](https://matrix.to/#/@josphh:matrix.org). All messages sent through Matrix are end-to-end encrypted.
 
 ### Email
-You may also contact me through email, at [josphh@tutanota.com](mailto:josphh@tutanota.com). Tutanota supports encryption if you yourself have a Tutanota email. All emails sent to me will be encrypted at rest, but I cannot guarentee encryption on your own service. If needed, I recommend you use my public PGP key, stated below.
+You may also contact me through email, at <templates-font-awesome style="solid" icon="envelope"></templates-font-awesome> [josphh@tutanota.com](mailto:josphh@tutanota.com). Tutanota supports encryption if you yourself have a Tutanota email. All emails sent to me will be encrypted at rest, but I cannot guarentee encryption on your own service. If needed, I recommend you use my public PGP key, stated below.
 
 ### PGP
-My public key is stored on [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/87DDD1DC1A64EFD195427194033EB63952181A26).
+My public key <templates-font-awesome style="solid" icon="file-powerpoint"></templates-font-awesome> is stored on [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/87DDD1DC1A64EFD195427194033EB63952181A26).
 *Do not use the keys stored on my GitHub*, as they may be outdated, or possibly compromised.
