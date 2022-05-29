@@ -69,11 +69,21 @@ ul.pills {
 
 .post-meta {
   font-size: 0.8em;
-  text-align: center;
 }
 
 .post-meta ul.pills {
   display: inline;
+}
+
+.post-summary {
+  border-left: 0.35em solid #3399ff;
+  padding-left: 0.5em;
+  padding-right: 0.85em;  /* Compensate for left border and padding */
+}
+
+.post-summary h1 {
+  box-shadow: unset;
+  margin: 0.02em 0;
 }
 
 time[itemprop],
@@ -89,7 +99,6 @@ ul.pills a {
 
 main h1 ~ nav {
   margin-top: -0.8em;
-  text-align: center;
   font-size: 0.8em;
 }
 
