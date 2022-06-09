@@ -12,6 +12,10 @@ I also use [NixOS](https://nixos.org/), a declarative operating system based off
 
 If you haven't noticed, I share the same domain name with a friend of mine, [Daniel](https://danth.pwak.org). Daniel and I work together on ideas, and hopefully soon enough (when I have time) - software. Daniel is an incredibly skilled, helpfull, and intelligent programmer; and I advise you check out his page and his [GitHub](https://github.com/danth).
 
+## Recent posts
+
+<templates-recent-posts count="7"></templates-recent-posts>
+
 ## My Profiles
 ### Mastodon
 My <templates-font-awesome style="brands" icon="mastodon"></templates-font-awesome> Mastodon profile can be viewed <a rel="me" href="https://fosstodon.org/@josphh">here</a>! I recommend you create yourself an account on their decentralized, community owned platform by going [here](https://joinmastodon.org/).
@@ -36,10 +40,6 @@ Here are my (very poor, I know) stats:
     src="https://github-readme-stats.vercel.app/api/top-langs?username=josphh&layout=compact&langs_count=8&hide_title=true&bg_color=ffffff00&hide_border=true&text_color=ffffff"
   />
 </a>
-
-## Recent posts
-
-<templates-recent-posts count="7"></templates-recent-posts>
 
 ## Contact
 ### Matrix
