@@ -24,7 +24,7 @@
     }
     {
       title = "Julian Assange Extradition: An Open Letter";
-      datetime = "2022-06-12";
+      datetime = "2022-06-12 20:08:00Z";
       authors = [ "Joseph Gill-Nuttall" ];
       body.markdown = builtins.readFile ./markdown/open_letter_Julian_Assange.md;
       page.meta.description = "Open Letter to a Member of the British Parliament regarding Julian Assange's extradition";
