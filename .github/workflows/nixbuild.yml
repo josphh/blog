@@ -1,0 +1,16 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Build
+    uses: nixbuild/nixbuild-action/.github/workflows/ci-workflow.yml@v11
+    secrets:
+      nixbuild_ssh_key: ${{ secrets.NIXBUILD_SSH_KEY }}
+    with:
+      filter_builds: '.system == "x86_64-linux"'
+      label_builds: '"\(.attr)"'
