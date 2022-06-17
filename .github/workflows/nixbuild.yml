@@ -1,24 +1,17 @@
 name: Build
 
-on:
-  push:
-    branches:
-      - master
+on: push
 
 jobs:
   build:
-    name: Build website
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Install Nix
-        uses: nixbuild/nix-quick-install-action@v12
-        with:
-          nix_conf: experimental-features = nix-command flakes
-      - name: Set up nixbuild.net
-        uses: nixbuild/nixbuild-action@v11
-        with:
-          nixbuild_ssh_key: ${{ secrets.NIXBUILD_SSH_KEY }}
-      - name: Build website
-        run: nix build .#website
+    name: Build
+    uses: nixbuild/nixbuild-action/.github/workflows/ci-workflow.yml@v12
+
+    # Secret key will not be available to forks
+    if: github.repository_owner == 'josphh'
+    secrets:
+      nixbuild_ssh_key: ${{ secrets.NIXBUILD_SSH_KEY }}
+
+    with:
+      filter_builds: '.system == "x86_64-linux"'
+      label_builds: '"\(.attr)"'
